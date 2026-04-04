@@ -66,3 +66,14 @@ C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\obj\Debug\net9.0\refint\Fintrak.Api.dll
 C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\obj\Debug\net9.0\Fintrak.Api.pdb
 C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\obj\Debug\net9.0\Fintrak.Api.genruntimeconfig.cache
 C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\obj\Debug\net9.0\ref\Fintrak.Api.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Api\obj\Debug\net9.0\Fintrak.Api.sourcelink.json

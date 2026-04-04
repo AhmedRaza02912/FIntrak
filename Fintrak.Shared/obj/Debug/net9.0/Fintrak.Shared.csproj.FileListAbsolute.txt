@@ -20,3 +20,4 @@ C:\Users\Hp\Desktop\Fintrak\Fintrak.Shared\obj\Debug\net9.0\Fintrak.Shared.dll
 C:\Users\Hp\Desktop\Fintrak\Fintrak.Shared\obj\Debug\net9.0\refint\Fintrak.Shared.dll
 C:\Users\Hp\Desktop\Fintrak\Fintrak.Shared\obj\Debug\net9.0\Fintrak.Shared.pdb
 C:\Users\Hp\Desktop\Fintrak\Fintrak.Shared\obj\Debug\net9.0\ref\Fintrak.Shared.dll
+C:\Users\Hp\Desktop\Fintrak\Fintrak.Shared\obj\Debug\net9.0\Fintrak.Shared.sourcelink.json
