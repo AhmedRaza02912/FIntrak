@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Fintrak.Client",
   "resources": {
-    "hash": "sha256-rAELZIkPsicsEiX1VVadUnNC583MrHOFHar5InZECyE=",
+    "hash": "sha256-l09AbKuWAbHhiqqE/KCsEvL/NJuAWn1tpCoBTctXzZ0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.j0mj4vhukl.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h3xttq5c32.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Fintrak.Shared.krahhh5sbs.wasm": "Fintrak.Shared.wasm",
-      "Fintrak.Shared.u563bwnw9d.pdb": "Fintrak.Shared.pdb",
-      "Fintrak.Client.i9wqpwpjt3.wasm": "Fintrak.Client.wasm",
-      "Fintrak.Client.7xr5ixjz6b.pdb": "Fintrak.Client.pdb"
+      "Fintrak.Shared.plm85m9snt.wasm": "Fintrak.Shared.wasm",
+      "Fintrak.Shared.p11x7dd05m.pdb": "Fintrak.Shared.pdb",
+      "Fintrak.Client.16v913sxrp.wasm": "Fintrak.Client.wasm",
+      "Fintrak.Client.a0l6oziagm.pdb": "Fintrak.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.xidrk0eo52.js": "sha256-OfGprhDb4vgzxzOBj9RRMcRnAdSZR0hH5g5LHA0MzIE="
@@ -414,12 +414,12 @@
       "WindowsBase.300iq62cmr.wasm": "sha256-gyJyeSLAns1YIwrPLmw2VAbNeQgpzgW5xIJovvySzEc=",
       "mscorlib.560m239brp.wasm": "sha256-XShGzkyhqE1Qwz15C0W5EDSl0wiqbw4NUP1UtzupbE4=",
       "netstandard.yg21u65s4h.wasm": "sha256-PjcsgKDGCmf1+ahJpjBZtaqHugXi6ZJaAVAkX0OzhaI=",
-      "Fintrak.Shared.krahhh5sbs.wasm": "sha256-QMo1FAjCHq+Hl1DQkU7h2QjSuFfUqQvlvTo5LXYiQgg=",
-      "Fintrak.Client.i9wqpwpjt3.wasm": "sha256-1q7YI1AXxv9QPxjB6m3G+dcISm15jKIh4G9dDzdrmKo="
+      "Fintrak.Shared.plm85m9snt.wasm": "sha256-kw6ehgVujdTSGChBQR/Ddpl7yl21/QUD09vAWxDcpCY=",
+      "Fintrak.Client.16v913sxrp.wasm": "sha256-CZMLPP1WOKJ1R0sG4W4NIEtvR9thf6FAGflnor9KguU="
     },
     "pdb": {
-      "Fintrak.Shared.u563bwnw9d.pdb": "sha256-8hwA9RAEqL9+c2goKYDOWMgSXeWrOI1+MqTZ8zpHxd0=",
-      "Fintrak.Client.7xr5ixjz6b.pdb": "sha256-m4ITw5Gr0sUJYqf8AZ9+2xwvkvYu0z3Druv91L39wmI="
+      "Fintrak.Shared.p11x7dd05m.pdb": "sha256-jQ721ymo5aliGxjqfdG5GCG260D1FZ1LmBgH+KPvzuA=",
+      "Fintrak.Client.a0l6oziagm.pdb": "sha256-2tOFnGJv9kQgfuKV/lFAar8q4PMKU4G2FW7Y760LjhE="
     }
   },
   "cacheBootResources": true,
