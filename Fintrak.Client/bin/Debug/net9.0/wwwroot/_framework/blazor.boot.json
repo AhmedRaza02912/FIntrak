@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Fintrak.Client",
   "resources": {
-    "hash": "sha256-l09AbKuWAbHhiqqE/KCsEvL/NJuAWn1tpCoBTctXzZ0=",
+    "hash": "sha256-gBPJE0RjWFCxrBaR9ds4aYwaCgGXT8FNglVOhZvyrNE=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.j0mj4vhukl.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h3xttq5c32.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -19,12 +19,15 @@
       "Microsoft.Extensions.FileProviders.Abstractions.peccai7y7w.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.6zoatctfhk.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.i4488p3c9i.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
+      "Microsoft.Extensions.Localization.bvn14pws96.wasm": "Microsoft.Extensions.Localization.wasm",
+      "Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm": "Microsoft.Extensions.Localization.Abstractions.wasm",
       "Microsoft.Extensions.Logging.3xjj36rod4.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.7i0fjb3g4i.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.ibshrnjvv0.wasm": "Microsoft.Extensions.Options.wasm",
       "Microsoft.Extensions.Primitives.dh5wi8wu8k.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.ltce2031wf.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.kbyrjhnquw.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
+      "MudBlazor.74s9gjcsed.wasm": "MudBlazor.wasm",
       "Microsoft.CSharp.aiisld9zgk.wasm": "Microsoft.CSharp.wasm",
       "Microsoft.VisualBasic.Core.pnarh8esv1.wasm": "Microsoft.VisualBasic.Core.wasm",
       "Microsoft.VisualBasic.ami2dw3700.wasm": "Microsoft.VisualBasic.wasm",
@@ -195,25 +198,25 @@
       "netstandard.yg21u65s4h.wasm": "netstandard.wasm",
       "System.Private.CoreLib.m8l0lrv2y9.wasm": "System.Private.CoreLib.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.xidrk0eo52.js": "dotnet.native.js",
-      "dotnet.native.y68cfu4kuf.wasm": "dotnet.native.wasm",
-      "dotnet.runtime.hv7sykez1z.js": "dotnet.runtime.js",
+      "dotnet.native.l1ds2rhypd.js": "dotnet.native.js",
+      "dotnet.native.etgrtk5jba.wasm": "dotnet.native.wasm",
+      "dotnet.runtime.2hocyfcbj2.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Fintrak.Shared.plm85m9snt.wasm": "Fintrak.Shared.wasm",
-      "Fintrak.Shared.p11x7dd05m.pdb": "Fintrak.Shared.pdb",
-      "Fintrak.Client.16v913sxrp.wasm": "Fintrak.Client.wasm",
-      "Fintrak.Client.a0l6oziagm.pdb": "Fintrak.Client.pdb"
+      "Fintrak.Shared.t8u9qvffx2.wasm": "Fintrak.Shared.wasm",
+      "Fintrak.Shared.1lq4pdouix.pdb": "Fintrak.Shared.pdb",
+      "Fintrak.Client.qa1he4lxci.wasm": "Fintrak.Client.wasm",
+      "Fintrak.Client.5i6fxh3aar.pdb": "Fintrak.Client.pdb"
     },
     "jsModuleNative": {
-      "dotnet.native.xidrk0eo52.js": "sha256-OfGprhDb4vgzxzOBj9RRMcRnAdSZR0hH5g5LHA0MzIE="
+      "dotnet.native.l1ds2rhypd.js": "sha256-CU8oL4L0VAwGe3hCyxZDy7keJq9dcsWED0JKqrvlUb4="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.hv7sykez1z.js": "sha256-3egSZfVHFUpXw3QwgiaxDQns5wWmrugiXEFPbJyCk2g="
+      "dotnet.runtime.2hocyfcbj2.js": "sha256-5oRcSUQSLbUYyq9jPgwB6domrDHYrvLX+53QxY+0y48="
     },
     "wasmNative": {
-      "dotnet.native.y68cfu4kuf.wasm": "sha256-epub+cT7AAhrDiekrY5B4YmQztQS22XhiPGS89zUOsY="
+      "dotnet.native.etgrtk5jba.wasm": "sha256-HlUDSN0oXsH1WmjLNtyyvh9W0WQWWPGv3SJsHPJAwTE="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -241,12 +244,15 @@
       "Microsoft.Extensions.FileProviders.Abstractions.peccai7y7w.wasm": "sha256-L3SybkUANkypkT0YAbmnulszWiYA0nknc/0Ndc++xUQ=",
       "Microsoft.Extensions.FileProviders.Physical.6zoatctfhk.wasm": "sha256-8hmK3dP5d19fusT1UcMF+/sUl7ih7OEgfpv65nmm4QY=",
       "Microsoft.Extensions.FileSystemGlobbing.i4488p3c9i.wasm": "sha256-4gK2XiOZW1spwi6SjclUArobWe8zNVPWJ12SDMJpO/8=",
+      "Microsoft.Extensions.Localization.bvn14pws96.wasm": "sha256-6UgMJoVZBfDdfzYR0aKVK6BWArxpXC1qiQDDjiXw/L4=",
+      "Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm": "sha256-GJNjpp2mlMIYboBhzukWw5r2Z24PsB0E9Gj9VoTGKEI=",
       "Microsoft.Extensions.Logging.3xjj36rod4.wasm": "sha256-aanrguDKs7KUDFk6x+hgM4EKNVkafnm4LzzRWLwzFQI=",
       "Microsoft.Extensions.Logging.Abstractions.7i0fjb3g4i.wasm": "sha256-T99jysl/4nQz18nwDZBIhutCvUDXuHUIQzaHPAu09Gs=",
       "Microsoft.Extensions.Options.ibshrnjvv0.wasm": "sha256-Yq9DpyYKCn3WmKOQvZrf/RztdQKI6nRnkIBQMhtSTUo=",
       "Microsoft.Extensions.Primitives.dh5wi8wu8k.wasm": "sha256-PypBe+6mw+fjYvnLwPqtaQ2QEnv1YxXLJZH2EmX8Tn4=",
       "Microsoft.JSInterop.ltce2031wf.wasm": "sha256-aeokB1RJIhEr8tsAm3W03UEh0I21oO05uUy7fzznaww=",
       "Microsoft.JSInterop.WebAssembly.kbyrjhnquw.wasm": "sha256-gK0qFVyjqnNYnFdIEIZ+KLcB3GJYrYXUAX8Jgu8d29Q=",
+      "MudBlazor.74s9gjcsed.wasm": "sha256-aQ3fpMgliySL0kzvW5XjZVokk3GLrztAw4+s5WL2ip4=",
       "Microsoft.CSharp.aiisld9zgk.wasm": "sha256-siXjhbF/WGgNdiLsMs7oyA66L5/8uzUgOE9+/YZt57A=",
       "Microsoft.VisualBasic.Core.pnarh8esv1.wasm": "sha256-tR+xyCj6TsJWF2a70b3D8HSh2ZbvG+4K/BaFMpXztcY=",
       "Microsoft.VisualBasic.ami2dw3700.wasm": "sha256-Ppi7RX2Zc4WZ7QTn01FQrmZ8/7+janQ3i0hUj9B4OpA=",
@@ -414,12 +420,12 @@
       "WindowsBase.300iq62cmr.wasm": "sha256-gyJyeSLAns1YIwrPLmw2VAbNeQgpzgW5xIJovvySzEc=",
       "mscorlib.560m239brp.wasm": "sha256-XShGzkyhqE1Qwz15C0W5EDSl0wiqbw4NUP1UtzupbE4=",
       "netstandard.yg21u65s4h.wasm": "sha256-PjcsgKDGCmf1+ahJpjBZtaqHugXi6ZJaAVAkX0OzhaI=",
-      "Fintrak.Shared.plm85m9snt.wasm": "sha256-kw6ehgVujdTSGChBQR/Ddpl7yl21/QUD09vAWxDcpCY=",
-      "Fintrak.Client.16v913sxrp.wasm": "sha256-CZMLPP1WOKJ1R0sG4W4NIEtvR9thf6FAGflnor9KguU="
+      "Fintrak.Shared.t8u9qvffx2.wasm": "sha256-oxhUMh3jweHJDwNh9J17ETE2Oag9nXaI69JUHLzF/wk=",
+      "Fintrak.Client.qa1he4lxci.wasm": "sha256-0g5UDqZ+NN9bMc9vSAR79/o9rJSE4OvUIhlmihPBKxI="
     },
     "pdb": {
-      "Fintrak.Shared.p11x7dd05m.pdb": "sha256-jQ721ymo5aliGxjqfdG5GCG260D1FZ1LmBgH+KPvzuA=",
-      "Fintrak.Client.a0l6oziagm.pdb": "sha256-2tOFnGJv9kQgfuKV/lFAar8q4PMKU4G2FW7Y760LjhE="
+      "Fintrak.Shared.1lq4pdouix.pdb": "sha256-a5N2X8QlIs2NquP8DO5L/1FDoR7ZjQ69KmaReP82pxw=",
+      "Fintrak.Client.5i6fxh3aar.pdb": "sha256-rSOPbjxcmgsfAsF3xViFx4aYBaiAFQBWmENTBhGlk2I="
     }
   },
   "cacheBootResources": true,

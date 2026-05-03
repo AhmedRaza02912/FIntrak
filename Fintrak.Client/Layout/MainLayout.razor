@@ -1,16 +1,39 @@
 ﻿@inherits LayoutComponentBase
-<div class="page">
-    <div class="sidebar">
+@using MudBlazor
+
+<MudThemeProvider Theme="_theme" />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudDrawer Open="true"
+               Variant="DrawerVariant.Persistent"
+               Elevation="0"
+               Style="width:220px;">
         <NavMenu />
-    </div>
+    </MudDrawer>
 
-    <main>
-        <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
-        </div>
-
-        <article class="content px-4">
+    <MudMainContent Style="background:#f7f8f6; min-height:100vh;">
+        <MudContainer MaxWidth="MaxWidth.ExtraLarge" Class="pa-6">
             @Body
-        </article>
-    </main>
-</div>
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    private MudTheme _theme = new MudTheme()
+    {
+        PaletteLight = new PaletteLight()
+        {
+            Primary = "#157a3f",
+            PrimaryContrastText = "#ffffff",
+            Secondary = "#2ecc71",
+            Background = "#f7f8f6",
+            Surface = "#ffffff",
+            DrawerBackground = "#0d5c2e",
+            DrawerText = "rgba(255,255,255,0.65)",
+            TextPrimary = "#111410",
+            TextSecondary = "#4a4d47",
+        }
+    };
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fintrak.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4f637626795546049487fe604e9bcab4ee41e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ed9b9e5f5c4870f8e34dc064a66300fab4212d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fintrak.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fintrak.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
